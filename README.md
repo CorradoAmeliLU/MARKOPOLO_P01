@@ -1,2 +1,2 @@
 # MARKOPOLO_P01
-Acute co-exposure to particulate matter and aircraft noise in the lung-brain-heart axis
+Co-exposure to urban particulate matter and aircraft noise induces lung-centered immune-redox proteomic remodeling in mice
